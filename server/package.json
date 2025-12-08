@@ -3,6 +3,11 @@
 	"version": "1.0.0",
 	"description": "studynotion-backend",
 	"main": "index.js",
+
+	"engines": {
+		"node": "16.x"
+	},
+
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
